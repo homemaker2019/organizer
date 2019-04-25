@@ -24,3 +24,7 @@ insert into user values('123','rahul.usit@gmail.com','1234567');
 user_id | password | email_id | contact
 10 | 123 | prshntmishra033@gmail.com | 9899683318
 11 | 123 | rahul.usit@gmail.com | 1234567
+
+# swagger UI link
+
+http://localhost:8080/swagger-ui.html
